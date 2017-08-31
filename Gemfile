@@ -42,6 +42,7 @@ end
 
 group :test do
   gem 'capybara', '~> 2.15', '>= 2.15.1'
+  gem 'factory_girl_rails', '~> 4.2.1'
 end
 
 group :development do
